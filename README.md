@@ -1,5 +1,5 @@
 # Trill-World
-A game I developed with XCode using Sprite Kit framework. My own creative version of the classic game Space Invaders.
+A game I developed with XCode using Sprite Kit framework. My own creative version of the classic game Space Invaders but with Travis Scott.
 
 <p align = "center">
   <img src= "https://user-images.githubusercontent.com/24784219/181690153-b4000c27-5dcc-45ba-abaa-bfe1f991f7dc.jpeg" width = "248" height = "537"/>
